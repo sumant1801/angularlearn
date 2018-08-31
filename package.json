@@ -1,0 +1,19 @@
+{
+  "name": "shivasolutions",
+  "version": "1.0.0",
+  "description": "New solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumant1801/angularlearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumant1801/angularlearn/issues"
+  },
+  "homepage": "https://github.com/sumant1801/angularlearn#readme"
+}
